@@ -49,7 +49,7 @@
 ### 🌐 Connect with Me:
 
 <p>
-  <a href="mailto:23uad029@kamarajengg.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="miyaraja0504@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- Add other links like LinkedIn or portfolio if available -->
 </p>
 
